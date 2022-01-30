@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @L14mC41
+- 👋 Hi, I’m LiamC
 - 👀 I’m interested in ... Technology, Coding, the Environment, Design/Builds, Engineering, Blockchain, Music, and Gardening. 
 - 🌱 I’m currently learning ... Computer Science and Software Dev
 - 💞️ I’m looking to collaborate on ... A project to help people access and find services and help. 
